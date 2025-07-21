@@ -7,7 +7,7 @@
 
 This project aims to provide a 360° view of business performance across departments—**Sales, Finance, Marketing, and Supply Chain**—through interactive dashboards. 
 
-🔗 **[Live Report](https://www.novypro.com/project/atliq-hardware-business-insights-360)** | 📁 **[Download PBIX](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)**
+🔗 You can find the .pbit file here : [Report](https://github.com/varun0906-da/BI-360-Insights/blob/main/chapter_7_bi360_vp_p%26l_structure_12.12_Executive_view.pbit)
 
 ## 🔧 Tech Stack & Tools
 
@@ -84,8 +84,6 @@ The datasets were provided post-kickoff and stored in **MySQL**, accessed direct
 - Used the **Snowflake schema** to model relationships between dimension and fact tables  
 - Ensured clean joins and optimized relationships for performance  
 
-🔗 [Best Practices for Data Modeling](https://addendanalytics.com/blog/data-modelling-best-practices/)
-
 ![Data Model](https://github.com/varun0906-da/BI-360-Insights/blob/main/Data_Model_Page.png)
 
 ## 🎨 Dashboard Design
@@ -140,4 +138,3 @@ This interactive report equips stakeholders to:
 - Answer “Why?” questions with data instead of guesswork  
 - Track trends and identify problem areas with visual indicators
 
-you can find the Template file here : [Report](https://github.com/varun0906-da/BI-360-Insights/blob/main/chapter_7_bi360_vp_p%26l_structure_12.12_Executive_view.pbit)

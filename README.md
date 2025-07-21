@@ -92,8 +92,6 @@ The datasets were provided post-kickoff and stored in **MySQL**, accessed direct
 
 The design is inspired by stakeholder mockups. Navigation is button-driven, allowing users to switch between key business areas.
 
-### 📍 Home Page
-
 Quick-access buttons to navigate to:
 
 - Info Page  
@@ -106,27 +104,32 @@ Quick-access buttons to navigate to:
 - Support  
 
 ## 📈 Report Previews
+### 📍 Home Page
+![Home Page](https://github.com/varun0906-da/BI-360-Insights/blob/main/Landing_Page.png)
 
 ### 🧭 Info Page  
-![Info](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info](https://github.com/varun0906-da/BI-360-Insights/blob/main/Info_Page.png)
 
 ### 💸 Finance View  
-![Finance](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finance](https://github.com/varun0906-da/BI-360-Insights/blob/main/Finance_Page.png)
 
 ### 📊 Sales View  
-![Sales](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales](https://github.com/varun0906-da/BI-360-Insights/blob/main/Sales_Page.png)
 
 ### 📣 Marketing View  
-![Marketing](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/varun0906-da/BI-360-Insights/blob/main/Marketing_Page.png)
 
 ### 🚚 Supply Chain  
-![Supply Chain](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply Chain](https://github.com/varun0906-da/BI-360-Insights/blob/main/Supply_Chain_Page.png)
 
 ### 🧑‍💼 Executive View  
-![Executive](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive](https://github.com/varun0906-da/BI-360-Insights/blob/main/Executive_Page.png)
 
 ### 🖥️ Product Insights  
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products](https://github.com/varun0906-da/BI-360-Insights/blob/main/Product_Page.png)
+
+### ◼️ Support View  
+![Support](https://github.com/varun0906-da/BI-360-Insights/blob/main/Support_Page.png)
 
 ## ✅ Project Outcome
 

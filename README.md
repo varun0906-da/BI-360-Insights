@@ -138,4 +138,6 @@ This interactive report equips stakeholders to:
 - Make faster and smarter decisions  
 - Drill down into KPIs across departments  
 - Answer “Why?” questions with data instead of guesswork  
-- Track trends and identify problem areas with visual indicators  
+- Track trends and identify problem areas with visual indicators
+
+you can find the Template file here : [Report](https://github.com/varun0906-da/BI-360-Insights/blob/main/chapter_7_bi360_vp_p%26l_structure_12.12_Executive_view.pbit)

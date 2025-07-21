@@ -86,7 +86,7 @@ The datasets were provided post-kickoff and stored in **MySQL**, accessed direct
 
 🔗 [Best Practices for Data Modeling](https://addendanalytics.com/blog/data-modelling-best-practices/)
 
-![Data Model](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png)
+![Data Model](https://github.com/varun0906-da/BI-360-Insights/blob/main/Data_Model_Page.png)
 
 ## 🎨 Dashboard Design
 

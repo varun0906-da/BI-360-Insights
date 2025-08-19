@@ -7,7 +7,7 @@
 
 This project aims to provide a 360° view of business performance across departments—**Sales, Finance, Marketing, and Supply Chain**—through interactive dashboards. 
 
-🔗 You can find the .pbit file here : [Report](https://github.com/varun0906-da/BI-360-Insights/blob/main/chapter_7_bi360_vp_p%26l_structure_12.12_Executive_view.pbit)
+🔗 You can find the downloadable template (.pbit) file here : [Report](https://github.com/varun0906-da/BI-360-Insights/blob/main/chapter_7_bi360_vp_p%26l_structure_12.12_Executive_view.pbit)
 
 🔗 You can find the Live Report here :[Report](https://app.powerbi.com/view?r=eyJrIjoiNGI1NWE4ZGMtMmMzZi00Mjc2LTg0ZGYtMmQwNTU4NDM4NmEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 

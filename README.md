@@ -9,7 +9,7 @@ This project aims to provide a 360° view of business performance across departm
 
 🔗 You can find the downloadable template (.pbit) file here : [Dashboard Template](https://github.com/varun0906-da/BI-360-Insights/blob/main/Dashboard_Template.pbit)
 
-🔗 You can find the Live Report here :[Report](https://app.powerbi.com/view?r=eyJrIjoiNGI1NWE4ZGMtMmMzZi00Mjc2LTg0ZGYtMmQwNTU4NDM4NmEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 You can find the Live Report here :[Report](https://app.powerbi.com/view?r=eyJrIjoiMGMxNjg1MzMtMDI1Yi00YjI0LWE5MzQtYzJmMzc4ZGJjZjVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🔧 Tech Stack & Tools
 
